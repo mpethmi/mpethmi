@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm pethmi</h1>
 <h3 align="center">Passionate About Technology & Innovation</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mpethmi&label=Profile%20views&color=0e75b6&style=flat" alt="mpethmi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mpethmi&label=Profile%20views&color=666362&style=flat" alt="mpethmi" /> </p>
 
 - 📫 How to reach me **withrithosha@gmail.com**
 
